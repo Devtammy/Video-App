@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@mdi/js": "^7.0.96"
+  }
+  "scripts": {
     "build": "npm run build"
   }
 }
